@@ -20,3 +20,7 @@ Elle contient les adresses en `http` et `https` des sites Web suivants :
 * Maghreb Emergent
 * Interlignes
 * Wikipédia (kab)
+
+## Liens et miroirs
+
+Dépôt source sur Gitlab : [https://gitlab.com/dzmonitor/dzmonitor.gitlab.io](https://gitlab.com/dzmonitor/dzmonitor.gitlab.io)
