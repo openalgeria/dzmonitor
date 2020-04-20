@@ -4,7 +4,7 @@ Ce dépôt contient une page Web destinée à recevoir une liste de sites Web de
 
 ## Comment accédér à la page ?
 
-Via : [https://dzmonitor.github.io](https://dzmonitor.github.io)
+Via : [https://openalgeria.github.io/dzmonitor/](https://openalgeria.github.io/dzmonitor/)
 
 ## Comment on génère les liens de test de censure ?
 
