@@ -12,14 +12,15 @@ Via le service [https://run.ooni.io/](https://run.ooni.io) et on met à jour la 
 
 ## Que contient la liste actuelle ?
 
-Liste mise à jour le : 20 avril 2020
+Liste mise à jour le : **25 avril 2020**
 
-Elle contient les adresses en `http` et `https` des sites Web suivants :
+Elle contient les adresses en `http` et/ou `https` des sites Web suivants :
 
 * Radio M
 * Maghreb Emergent
 * Interlignes
-* Wikipédia (kab)
+* DZvid
+* Wikipédia
 
 ## Liens et miroirs
 
