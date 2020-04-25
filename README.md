@@ -20,6 +20,7 @@ Elle contient les adresses en `http` et/ou `https` des sites Web suivants :
 * Maghreb Emergent
 * Interlignes
 * DZvid
+* le matin d'Algérie
 * Wikipédia
 
 ## Liens et miroirs
